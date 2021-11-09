@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/.vs
+/Diffdir/Debug
+/Diffdir/Diffdir.vcxproj.user
+/Diffdir/Diffdir.vcxproj.filters
